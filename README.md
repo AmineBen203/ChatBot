@@ -1,7 +1,7 @@
 # ChatBot 
 
 ## Overview
-This is a simple chatbot application created using WinForms in C#. The chatbot simulates a conversation between a user and a bot, where the user can type messages, and the bot responds with pre-configured or dynamically generated responses. The bot also shows a "typing..." animation while waiting for a response.
+This is a simple chatbot application created using WinForms in C#. The chatbot simulates a conversation between a user and a bot, where the user can type messages, and the bot responds with pre-configured or dynamically generated responses. The bot also shows a "typing..." animation while waiting for a response.(I just need to renew API that why that error is occured... but feel free to use the source code)
 
 ![Chatbot Image](assets/image.png)
 
