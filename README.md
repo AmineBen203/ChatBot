@@ -3,7 +3,7 @@
 ## Overview
 This is a simple chatbot application created using WinForms in C#. The chatbot simulates a conversation between a user and a bot, where the user can type messages, and the bot responds with pre-configured or dynamically generated responses. The bot also shows a "typing..." animation while waiting for a response.
 
-![Chatbot Image](assets/chatbot_image.png)
+![Chatbot Image](assets/image.png)
 
 ## Features
 - **User Message Bubbles**: User's messages are displayed in blue bubbles aligned to the right.
