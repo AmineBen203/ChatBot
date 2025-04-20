@@ -14,7 +14,7 @@ namespace ChatBot
         public async Task<string> GetBotResponseAsync(string prompt)
         {
             var client = new HttpClient();
-            var apiKey = "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";
+            var apiKey = "YOUR_API_TOKEN";
             client.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
 
             var requestBody = new
